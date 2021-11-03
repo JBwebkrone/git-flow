@@ -1,3 +1,2 @@
-
 import this
-print()
+print("Bug is fixed ready to release.")
